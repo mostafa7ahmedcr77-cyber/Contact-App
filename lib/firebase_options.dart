@@ -57,7 +57,6 @@ class DefaultFirebaseOptions {
     projectId: 'contact-app-54b40',
     storageBucket: 'contact-app-54b40.firebasestorage.app',
   );
-
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCuJCFr0r_JvX_tfKOvVSoVGY_Z-qTvJ0M',
     appId: '1:137340517183:ios:b1784749f8b12b03c2f18a',
@@ -66,7 +65,6 @@ class DefaultFirebaseOptions {
     storageBucket: 'contact-app-54b40.firebasestorage.app',
     iosBundleId: 'com.example.myContactApp',
   );
-
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyCuJCFr0r_JvX_tfKOvVSoVGY_Z-qTvJ0M',
     appId: '1:137340517183:ios:b1784749f8b12b03c2f18a',
